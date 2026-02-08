@@ -56,7 +56,7 @@ npm run android
 ---
 
 ## 📥 Download APK
-[Download Android APK (Debug Build)](./app-debug.apk)
+[Download Android APK (APK Build)](https://drive.google.com/file/d/1ZhpUVDo6kPQwuFDWCqwD0QOGx90qMc1O/view?usp=sharing)
 
 ---
 

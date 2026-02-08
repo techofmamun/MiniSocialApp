@@ -1,0 +1,11 @@
+node_modules/
+.env
+.DS_Store
+npm-debug.log
+yarn-error.log
+.vscode/
+*.log
+dist/
+build/
+coverage/
+firebase-admin-key.json
